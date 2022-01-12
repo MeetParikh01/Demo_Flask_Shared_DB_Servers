@@ -1,0 +1,12 @@
+
+7
+wsgi.py,4/9/491d41343a6a914bfa8b19169cde1c8086bdb8b7
+:
+
+app/app.py,0/3/0338104998400f0c277277ec54dbc28d8388020d
+?
+app/__init__.py,6/b/6b5a07a517e9a3845a279675e888c81b77b9d712
+E
+app/customers/urls.py,0/7/0718f0b2032b21283e54c6f1dca8d5c22f3ac505
+F
+app/customers/views.py,4/6/465be7a399b2a18b26c36db35f247497d5947e18

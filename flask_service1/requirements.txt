@@ -1,0 +1,59 @@
+alembic @ file:///home/er/.cache/pypoetry/artifacts/20/86/c8/c4454dfd1a62bd5b924d53f2b2026863c07a41f4d0f2db3962a1478ad6/alembic-1.7.5-py3-none-any.whl
+attrs @ file:///home/er/.cache/pypoetry/artifacts/9a/27/ab/6895b786f345452394b42c1fdbe863803d0396e675b632c01cb13cad92/attrs-21.4.0-py2.py3-none-any.whl
+CacheControl==0.12.10
+cachy==0.3.0
+certifi==2021.10.8
+cffi==1.15.0
+charset-normalizer==2.0.9
+cleo==0.8.1
+click==8.0.3
+clikit==0.6.2
+crashtest==0.3.1
+cryptography==36.0.1
+custom-package==0.1.2
+distlib==0.3.4
+filelock==3.4.2
+Flask==2.0.2
+greenlet @ file:///home/er/.cache/pypoetry/artifacts/b3/f0/eb/79b793c70b50de453930861de26715a48f4f7ff1969adf045ec83a3a8a/greenlet-1.1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+html5lib==1.1
+idna==3.3
+importlib-metadata @ file:///home/er/.cache/pypoetry/artifacts/e2/c9/6a/44457c44f5a0f97bcdf54be8e6dd51167474a5dfeba100dcd468d90229/importlib_metadata-4.10.0-py3-none-any.whl
+importlib-resources @ file:///home/er/.cache/pypoetry/artifacts/ee/4c/eb/2664cb1195ed4f08e5c07470436d77d74497c851583656c66927effd25/importlib_resources-5.4.0-py3-none-any.whl
+itsdangerous==2.0.1
+jeepney==0.7.1
+Jinja2==3.0.3
+keyring==21.8.0
+lockfile==0.12.2
+Mako @ file:///home/er/.cache/pypoetry/artifacts/d8/66/22/2c814b2182937b9ba5fe20d0c4f11fdd1493d97fce66b33ff056f24939/Mako-1.1.6-py2.py3-none-any.whl
+MarkupSafe @ file:///home/er/.cache/pypoetry/artifacts/11/6e/95/f2f04f7850f90b0ebc7410054662217e97d362ea6a688ad27994232123/MarkupSafe-2.0.1-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+more-itertools @ file:///home/er/.cache/pypoetry/artifacts/ef/04/3c/cde360772e23ed0a5f61cdbbe79d28f3a9680c45072b4fb9c5eb1ecd00/more_itertools-8.12.0-py3-none-any.whl
+msgpack==1.0.3
+packaging @ file:///home/er/.cache/pypoetry/artifacts/7f/d5/4c/1d3c4776012fc0bbe1f86e69bde2c5e36d2d32caa2e4845ac1fc08ab3f/packaging-21.3-py3-none-any.whl
+pastel==0.2.1
+pexpect==4.8.0
+pkginfo==1.8.2
+platformdirs==2.4.1
+pluggy @ file:///home/er/.cache/pypoetry/artifacts/9c/e5/0b/2d64d03361a081edeb5d2ec5f286ccf9719587781fbf6822e1b6384c27/pluggy-0.13.1-py2.py3-none-any.whl
+poetry==1.1.12
+poetry-core==1.0.7
+psycopg2-binary @ file:///home/er/.cache/pypoetry/artifacts/4a/ed/de/071fa3a73b804a5dd0dae503f658ac55d848e30f02ed08b7566493955a/psycopg2_binary-2.9.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+ptyprocess==0.7.0
+py @ file:///home/er/.cache/pypoetry/artifacts/ab/b4/c3/a3971fd0d6ab5a2e40a43ad7b809005422d7cf333f7be6ccdfe9002e1b/py-1.11.0-py2.py3-none-any.whl
+pycparser==2.21
+pylev==1.4.0
+pyparsing==3.0.6
+pytest @ file:///home/er/.cache/pypoetry/artifacts/9d/40/6b/50d2cb06df545acea43c65379c5456f4fbc703115a703bc7cd433ddf70/pytest-5.4.3-py3-none-any.whl
+requests==2.26.0
+requests-toolbelt==0.9.1
+SecretStorage==3.3.1
+shellingham==1.4.0
+six==1.16.0
+SQLAlchemy @ file:///home/er/.cache/pypoetry/artifacts/72/a1/82/4293b837d349160534c8003eec3ca6898db690f32a336cdc9bdbec2679/SQLAlchemy-1.4.29-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+SQLAlchemy-Utils @ file:///home/er/.cache/pypoetry/artifacts/27/8e/ec/75d764eeea12dc532b4b02fd6375858b9733bcbef3b31b35e1065ba56c/SQLAlchemy_Utils-0.38.2-py3-none-any.whl
+tomlkit==0.8.0
+urllib3==1.26.7
+virtualenv==20.13.0
+wcwidth @ file:///home/er/.cache/pypoetry/artifacts/36/68/e2/7232f431072d5e8aeec124120b9a1d095d45da10311d271fac10982473/wcwidth-0.2.5-py2.py3-none-any.whl
+webencodings==0.5.1
+Werkzeug==2.0.2
+zipp @ file:///home/er/.cache/pypoetry/artifacts/54/a2/32/50907f67584b845d6877c7e224c118ff1db66fc6aed6c6ef86b22ed57f/zipp-3.7.0-py3-none-any.whl
